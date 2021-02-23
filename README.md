@@ -1,5 +1,5 @@
-# project
-
+# Vue vuex vue-router template
+Vue vuex vue-router template
 ## Project setup
 ```
 npm install
